@@ -96,6 +96,8 @@
 				TargetAttributes = {
 					E60E9A1E1D181AA00070DE14 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = Y78W68N2HP;
+						DevelopmentTeamName = "Hsu Lu wei (Personal Team)";
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -255,6 +257,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = U1_0620/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "lue.U1-0620";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -267,6 +270,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = U1_0620/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "lue.U1-0620";
 				PRODUCT_NAME = "$(TARGET_NAME)";
